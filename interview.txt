@@ -1,0 +1,50 @@
+# Can we override a static private method?
+# In a class a method throws Null-pointer exception, in the subclass can we override that method with method which throws runtime exception?
+# Do you know about JDBC?
+# How to create a immutable class?
+# When do you override equal method?
+# In a hash map i have inserted a key-value, if we update the key will it happen?
+# String str = new String(); String str1 = "test"; where are string objects created?
+# What is enumerator?
+# What is difference between vector and array-list?
+# How are vector and array list size incremented?*
+# What are lambda expressions?
+# Difference between iterator and Enumeration?
+# What is persistence in java?
+# Is session factory thread safe?
+# Collection Mapping in hibernate
+# what is first level caching, second level & third level caching?
+# Difference Between Merge And Update Methods In Hibernate?
+# Do you know any latest Java script technology?  
+
+Why hash map and explain the data structure in detail. 
+hibernate and session management. project architecture. 
+dependency injection in Spring. cache in hibernate.
+sorting based on customised logic. thread management in depth.
+javascript objects.
+what are global variables in java script and how to declare.
+load factor and it's functionality.
+linkedlist data structure. 
+struts2 and spring diff. hibernate tags and hbm file syntax. etc...  
+
+Basic questions related to core Java like
+polymorphism,exception handling,Collection frameworks ...etc  
+
+What is the difference between String Builder and String Buffer  
+1 Answer
+What are the type of exceptions that you have come across during your work?  
+Answer Question
+What are the collections on which you have worked on?  
+Answer Question
+This question was asked by HR- What will you do if you get married?  
+
+How to configure multiple databases in hibernate, collections, oops concepts and abstract vs interface  
+
+WAP to find max no. from an array. 
+
+About Spring, Exceptions and multithreading, JSP  
+
+A = 2, B = 8 Write a program to swap them without using third variables.
+Write a program to decide whether input year is leap year or not.
+Write a program to write Fibonacci series.
+What are the basic concepts of OOP languages?

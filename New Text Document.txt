@@ -1,0 +1,43 @@
+http://helpdesk.corp.tavant.com/otrs/customer.pl
+
+Spring 3.0 MVC with Hibernate 3.0 CRUD Example
+Spring MVC + Hibernate + Maven tutorial with MySQL
+Spring MVC Hibernate MySQL Integration CRUD Example Tutorial
+
+http://fruzenshtein.com/spring-mvc-hibernate-maven-crud/
+
+
+
+
+Spring Login credentials
+
+http://o7planning.org/en/10305/simple-login-java-web-application-using-spring-mvc-spring-security-and-spring-jdbc
+
+
+<build>
+    <finalName>services</finalName>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <configuration>
+                <outputDirectory>D:\eclipse_installation\tomcat7\webapps</outputDirectory>
+            </configuration>
+        </plugin>
+    </plugins>
+  </build>
+  
+  
+  
+  
+  
+  
+  java8
+  
+  https://pragprog.com/book/vsjava8/functional-programming-in-java 
+  
+ https://www.tutorialspoint.com/java8/java8_base64.htm 
+
+https://www.genuitec.com/first-angular-2-app/ 
+
+http://www.sfdcmonkey.com/2017/02/18/dependent-picklist-fields-lightning-component/
